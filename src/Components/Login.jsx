@@ -1,6 +1,6 @@
 import React, { createContext, useEffect, useState } from "react";
 import { gsap } from "gsap";
-import icon from "../Assests/icon.png";
+import icon from "../Assets/icon.png";
 import {
   getAuth,
   signInWithEmailAndPassword,
