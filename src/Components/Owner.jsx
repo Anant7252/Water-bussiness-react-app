@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import icon from "../Assests/icon.png";
+import icon from "../Assets/icon.png";
 import Avatar from "react-initials-avatar";
 import Ownerwaterdetails from "./Ownerwaterdetails";
 import Ownerpaymentdetails from "./Ownerpaymentdetails";
