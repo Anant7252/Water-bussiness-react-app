@@ -3,7 +3,8 @@ import { getAuth, onAuthStateChanged } from 'firebase/auth';
 import { doc, getDoc } from 'firebase/firestore';
 import { collection, getFirestore, query, where, getDocs } from 'firebase/firestore';
 import { app } from '../firebase';
-import icon from '../Assests/icon.png';
+import icon from "../Assets/icon.png";
+
 
 const auth = getAuth(app);
 const db = getFirestore(app);
